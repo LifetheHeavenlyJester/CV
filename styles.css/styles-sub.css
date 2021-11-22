@@ -1,0 +1,27 @@
+body {
+  background-color: #F3E7E2;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+h2 {
+  color: #FF7F7F
+}
+
+h3 {
+  color: #FF7F7F
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: grey;
+  background-clip: padding-box;
+  width: 10%;
+  margin: 20px;
+}
